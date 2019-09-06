@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-border-width: 3; -fx-border-color: coral" xmlns="http://javafx.com/javafx/8.0.181" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LoginController">
+   <children>
+      <Label layoutX="145.0" layoutY="182.0" style="-fx-font-size: 25" text="Please plug the USB to Login" fx:id="lb_login"/>
+   </children>
+</AnchorPane>
